@@ -1,3 +1,13 @@
+# Pequeño demo de react
+
+Cuenta con un Login que lleva a un componente Home, este tiene un componente Menu el cual puede redireccionar y renderizar distintos componentes.
+
+_El Menu realmente solo renderiza el mismo componente. Con esto usamos la capacidad de reutilizar componentes_
+
+* [Bootstrap](https://www.npmjs.com/package/bootstrap)[(jquery, popper.js)](https://blog.logrocket.com/how-to-use-bootstrap-with-react-a354715d1121/)
+* [React Router](https://reactrouter.com/web/guides/quick-start)
+______
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
